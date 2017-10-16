@@ -1,3 +1,3 @@
 export default {
-  dataUrl: '//anvaka.github.io/galactic-data/'
+  dataUrl: '//192.168.1.155/allarxiv-gh-pages/'
 };
